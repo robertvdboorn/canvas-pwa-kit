@@ -1,0 +1,6 @@
+# Exclude test files and configs
+test/
+*.test.js
+*.spec.js
+.nyc_output
+coverage/
